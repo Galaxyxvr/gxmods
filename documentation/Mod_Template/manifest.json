@@ -1,8 +1,8 @@
 {
-    "description": "MOD DESCRIPTION GOES HERE",
+    "description": "just some custom music cuz me like music, like who dosent like music,(not custommazabile)",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "gaIaxy#7341"
     },
     "icons":
     {
@@ -16,10 +16,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "thenext.mp3"
             ],
             "browser_sounds":
             {
